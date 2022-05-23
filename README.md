@@ -10,7 +10,7 @@ A API utilizada é da Binance:
 - [Symbol Price Ticker](https://binance-docs.github.io/apidocs/#symbol-price-ticker).
 
 ### Instalação
-Clonar repositório e importar o banco de dados que se encontra em `config/banco.sql`
+Clonar repositório e importar o banco de dados que se encontra em `banco/bd_binance.sql`
 
 ### Telas
 ![tela](telas/1.png)
