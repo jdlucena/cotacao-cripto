@@ -34989,6 +34989,18 @@
                 {
                     "arcs": [
                         [
+                            2714
+                        ]
+                    ],
+                    "type": "Polygon",
+                    "properties": {
+                        "project_leader_id": "076",
+                        "project_leader_name": "Brasil"
+                    }
+                },
+                {
+                    "arcs": [
+                        [
                             0,
                             1,
                             2,
@@ -35041,19 +35053,7 @@
                         "project_leader_id": "011",
                         "project_leader_name": "Região Centro Leste - RO"
                     }
-                },
-                {
-                    "arcs": [
-                        [
-                            2714
-                        ]
-                    ],
-                    "type": "Polygon",
-                    "properties": {
-                        "project_leader_id": "076",
-                        "project_leader_name": "Brasil"
-                    }
-                },
+                },                
                 {
                     "arcs": [
                         [
